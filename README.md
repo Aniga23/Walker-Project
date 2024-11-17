@@ -4,6 +4,11 @@
 </strong></p>
 
 ## Links of all Components
-* ESP32 Board <a href="https://randomnerdtutorials.com/getting-started-with-esp32/#esp32-intro">
-* Send Receive SMS & Call with SIM800L GSM Module & Arduino <a href="https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/">
-* Neo-6M GPS module<a href="https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/">
+* ESP32 Board 
+<a href="https://randomnerdtutorials.com/getting-started-with-esp32/#esp32-intro">
+
+* Send Receive SMS & Call with SIM800L GSM Module & Arduino 
+<a href="https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/">
+
+* Neo-6M GPS module
+<a href="https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/">
