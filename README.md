@@ -4,7 +4,6 @@
 </strong></p>
 
 ## Links of all 
-
 * ESP32 Board 
 <a href="https://randomnerdtutorials.com/getting-started-with-esp32/#esp32-intro">
 
