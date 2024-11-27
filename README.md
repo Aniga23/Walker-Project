@@ -11,11 +11,17 @@
 <a href="https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/">
 
 * Neo-6M GPS module
-<a href="https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/">
+<a href="https://lastminuteengineers.(https://github.com/Jett0X)com/neo6m-gps-arduino-tutorial/">
 
+## Account
+
+- [@JettLouise](https://www.facebook.com/myprivacy19)
+- [@rizzigale6@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+
+## Author
+
+- [@JETTX](https://github.com/Jett0X)
 
 ## Licence 
 
-[MIT Licence](LICENCE)[def]
-
-[def]: LICENCE
+[MIT Licence](https://github.com/Jett0X/Walker-Project/blob/main/LICENSE)
