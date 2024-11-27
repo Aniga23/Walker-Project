@@ -12,3 +12,10 @@
 
 * Neo-6M GPS module
 <a href="https://lastminuteengineers.com/neo6m-gps-arduino-tutorial/">
+
+
+## Licence 
+
+[MIT Licence](LICENCE)[def]
+
+[def]: LICENCE
